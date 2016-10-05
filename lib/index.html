@@ -5,13 +5,27 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no"/>
   <title>I'm HZY</title>
-  <link href="bower_components/normalize-css/normalize.css" rel="stylesheet" inline>
-  <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
-  <link rel="stylesheet" href="bower_components/lightgallery/dist/css/lightgallery.min.css">
+  <!-- CDN start -->
+  <link href="https://cdn.bootcss.com/normalize/5.0.0/normalize.min.css" rel="stylesheet">
+  <link href="https://cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+  <link href="https://cdn.bootcss.com/lightgallery/1.3.5/css/lightgallery.min.css" rel="stylesheet">
+  <!-- CDN end -->
   <link href="dist/style.css" rel="stylesheet" inline>
 </head>
 
 <body>
+
+  <div id="loading">
+    <div id="loading-center">
+      <div id="loading-center-absolute">
+        <div class="object" id="object_one"></div>
+        <div class="object" id="object_two"></div>
+        <div class="object" id="object_three"></div>
+        <div class="object" id="object_four"></div>
+      </div>
+    </div>
+  </div>
+  
   <div id="stage">
     <div id="left">
       <div class="row">
@@ -63,9 +77,9 @@
     </div>
   <![endif]-->
 
-  <script src="bower_components/jquery/dist/jquery.min.js"></script>
-  <script src="bower_components/masonry/dist/masonry.pkgd.min.js"></script>
-  <script src="bower_components/lightgallery/dist/js/lightgallery.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://cdn.bootcss.com/masonry/4.1.1/masonry.pkgd.min.js"></script>
+  <script src="https://cdn.bootcss.com/lightgallery/1.3.5/js/lightgallery.min.js"></script>
 
   <script src="dist/js/content.js"></script>
   <script src="dist/js/main.js"></script>

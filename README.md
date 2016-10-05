@@ -19,12 +19,12 @@
 
 ## 关于技术
 
-本页面采用基于 [Node.js](https://nodejs.org) 的多种开发工具构建而成。并使用 [gulp.js](http://gulpjs.com/) 进行了完善的工作流自动化处理。
+采用基于 [Node.js](https://nodejs.org) 的多个开发工具构建而成：
 
 - 使用了 CSS 的预处理语言 [LESS](http://lesscss.org/)
-- 使用 [Bower](https://bower.io/) 作为前端包管理器
+- 使用 [gulp.js](http://gulpjs.com/) 进行了完善的工作流自动化处理
 - 使用 ES2015 语法进行 JS 开发，再通过 [Babel](https://babeljs.io/) 编译以确保兼容性
 
 ## 许可
 
-该项目的诞生离不开众多开源项目的支持，采用 [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html) 协议发布，使用 Github Page 托管。
+该项目的诞生离不开众多开源项目的支持，采用 [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html) 协议发布，并使用 Github Page 托管。
