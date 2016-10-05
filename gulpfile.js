@@ -24,7 +24,7 @@ gulp.task('styles', function() {
         .pipe($.concat('style.css'))
         .pipe($.less())
         .pipe($.autoprefixer({
-            browsers: ['> 5% in CN']
+            browsers: ['> 5%']
         }))
         //.pipe($.sourcemaps.write('.'))
         .pipe(gulp.dest('dist'));
