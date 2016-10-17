@@ -2,7 +2,7 @@
 
 我的 Github Page 主页，用来自我介绍以及展示一些我的作品。
 
-请访问：[http://h2y.github.io/](http://h2y.github.io/)
+请访问：[https://h2y.github.io/](https://h2y.github.io/)
 
 ## 关于内容
 
