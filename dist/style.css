@@ -67,10 +67,6 @@ body {
   text-align: center;
   width: 100%;
 }
-#left .row.self-desc {
-  width: 70%;
-  text-align: justify;
-}
 #left p.link-desc {
   opacity: 0;
   font-size: small;
@@ -105,6 +101,13 @@ body {
 }
 #left .self-desc {
   display: none;
+  width: 70%;
+  text-align: justify;
+}
+@media (max-width: 600px) {
+  #left .self-desc {
+    width: 80%;
+  }
 }
 #left p.saying {
   font-weight: bold;

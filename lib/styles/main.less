@@ -54,10 +54,6 @@ body {
     .row {
         text-align: center;
         width: 100%;
-        &.self-desc {
-            width: 70%;
-            text-align: justify;
-        }
     }
 
     p.link-desc {
@@ -93,6 +89,11 @@ body {
 
     .self-desc {
         display: none;
+        width: 70%;
+        text-align: justify;
+        @media (max-width: 600px) {
+            width: 80%;
+        }
     }
     p.saying {
         font-weight: bold;
