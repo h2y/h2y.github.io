@@ -2,7 +2,18 @@
 
 我的 Github Page 主页，用来自我介绍以及展示一些我的作品。
 
-请访问：[https://h2y.github.io/](https://h2y.github.io/)
+<del>请访问：[https://h2y.github.io/](https://h2y.github.io/)</del>
+
+**已删除访问**
+
+我认为求职简历这种东西太过于浮夸，上面虽然写满了各种获奖证书，但是大家都懂，现在的竞赛门槛并不高，并且对于我个人而言，我更想让大家看到的是我在 Github 上的那些有趣的项目，以及个人网站中的观点和见解，这才是真正有深度的没法过多写在简历中的东西。所以，简历这种东西，存在于线下就好。
+
+我的 Github 主页：<https://github.com/h2y>
+
+我的个人网站：<https://hzy.pw>
+
+这份简历存在的意义在于记录历史，可以 [点击下载](https://github.com/h2y/h2y.github.io/archive/resume-2017.zip) 后打开 `index.html` 查看。该简历的最后更新日期为 `2017-04-15`。
+
 
 ## 关于内容
 
